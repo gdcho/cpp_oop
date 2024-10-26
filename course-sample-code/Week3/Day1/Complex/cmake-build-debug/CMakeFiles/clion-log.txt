@@ -1,0 +1,4 @@
+C:\Users\A00257049\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=C:/cygwin64/bin/g++.exe -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/Complex
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/Complex/cmake-build-debug

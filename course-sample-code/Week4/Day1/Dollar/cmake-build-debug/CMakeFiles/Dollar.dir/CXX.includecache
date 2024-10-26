@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2019/Week4/Dollar/Dollar.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2019/Week4/Dollar/Random.cpp
+Random.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2019/Week4/Dollar/Random.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2019/Week4/Dollar/Random.hpp
+Dollar.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2019/Week4/Dollar/Dollar.hpp
+

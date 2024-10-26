@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/functor_fun.dir/functor_fun.cpp.o  -o functor_fun.exe -Wl,--out-implib,libfunctor_fun.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

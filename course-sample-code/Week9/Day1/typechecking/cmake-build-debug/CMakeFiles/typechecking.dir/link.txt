@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/typechecking.dir/typechecking.cpp.o  -o typechecking.exe -Wl,--out-implib,libtypechecking.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/a00257049/CLionProjects/COMP3512Winter/Week1/precisionAndWidth/precision and width.cpp
+iostream
+-
+iomanip
+-
+

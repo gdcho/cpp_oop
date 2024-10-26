@@ -1,0 +1,17 @@
+# ninja log v5
+0	1043	6871319044915154	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+1051	1265	6871319047054615	static_functions.exe	a012ec9a15625829
+3	881	6871319568519469	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+881	1058	6871319570227593	static_functions.exe	a012ec9a15625829
+4	601	6871320115881917	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+601	782	6871320117622498	static_functions.exe	a012ec9a15625829
+5	945	6871320986847667	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+945	1145	6871320988776867	static_functions.exe	a012ec9a15625829
+3	697	6871323793666467	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+698	910	6871323795775943	static_functions.exe	a012ec9a15625829
+5	659	6871324017092121	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+659	824	6871324018705626	static_functions.exe	a012ec9a15625829
+3	843	6871324233481587	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+844	1105	6871324236009221	static_functions.exe	a012ec9a15625829
+3	988	6871326966153136	CMakeFiles/static_functions.dir/main.cpp.obj	6b63d2c8ff2d667a
+989	1212	6871326968322891	static_functions.exe	a012ec9a15625829

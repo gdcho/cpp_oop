@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/exception8.dir/exception8.cpp.o  -o exception8.exe -Wl,--out-implib,libexception8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

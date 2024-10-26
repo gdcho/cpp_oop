@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/QuickQuestions.dir/main.cpp.o CMakeFiles/QuickQuestions.dir/MyClass.cpp.o  -o QuickQuestions.exe -Wl,--out-implib,libQuickQuestions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

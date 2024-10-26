@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/simple_bridge_example.dir/main.cpp.o  -o simple_bridge_example.exe -Wl,--out-implib,libsimple_bridge_example.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

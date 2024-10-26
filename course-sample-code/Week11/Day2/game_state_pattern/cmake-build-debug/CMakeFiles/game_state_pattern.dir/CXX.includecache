@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day2Code/game_state_pattern/stateAndContext.cpp
+stateAndContext.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day2Code/game_state_pattern/stateAndContext.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day2Code/game_state_pattern/stateAndContext.hpp
+iostream
+-
+

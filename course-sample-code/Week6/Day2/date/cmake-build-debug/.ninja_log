@@ -1,0 +1,4 @@
+# ninja log v5
+4	380	6886282155965432	CMakeFiles/date.dir/Date.cpp.obj	a1bb24917acf47a6
+0	511	6886282157273749	CMakeFiles/date.dir/DateTester.cpp.obj	e4efdebde1a0651
+511	662	6886282158721517	date.exe	b2c04eac546bb781

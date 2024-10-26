@@ -1,0 +1,5 @@
+# ninja log v5
+5	1801	7144450368899145	CMakeFiles/thread_race_condition.dir/main.cpp.obj	40364cc4439537da
+1802	2070	7144450371478840	thread_race_condition.exe	2fcdf0d74a537489
+4	1709	7144483498648107	CMakeFiles/thread_race_condition.dir/main.cpp.obj	40364cc4439537da
+1710	1983	7144483501211068	thread_race_condition.exe	2fcdf0d74a537489

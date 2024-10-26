@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/Animal.hpp
+iostream
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/CharacterFactory.hpp
+iostream
+-
+Friendly.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/Friendly.hpp
+Enemy.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/Enemy.hpp
+Animal.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/Animal.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/Enemy.hpp
+iostream
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/Friendly.hpp
+iostream
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/main.cpp
+iostream
+-
+vector
+-
+CharacterFactory.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/game_abstract_factory/CharacterFactory.hpp
+

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/copy_elision.dir/copy_elision.cpp.o  -o copy_elision.exe -Wl,--out-implib,libcopy_elision.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

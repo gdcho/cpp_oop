@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/DynamicClasses.dir/main.cpp.o  -o DynamicClasses.exe -Wl,--out-implib,libDynamicClasses.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

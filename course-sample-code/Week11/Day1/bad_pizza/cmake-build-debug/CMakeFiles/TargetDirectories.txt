@@ -1,0 +1,3 @@
+C:/Users/jyim3/CLionProjects/CPPSampleCodeMaster/Week11/Day1/bad_pizza/cmake-build-debug/CMakeFiles/bad_pizza.dir
+C:/Users/jyim3/CLionProjects/CPPSampleCodeMaster/Week11/Day1/bad_pizza/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jyim3/CLionProjects/CPPSampleCodeMaster/Week11/Day1/bad_pizza/cmake-build-debug/CMakeFiles/rebuild_cache.dir

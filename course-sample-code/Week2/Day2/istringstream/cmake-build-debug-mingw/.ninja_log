@@ -1,0 +1,15 @@
+# ninja log v5
+0	397	7164510140705409	CMakeFiles/istringstream.dir/main.cpp.obj	fd100ca76e164bb
+399	570	7164510142353035	istringstream.exe	abf676666a50bf18
+2	322	7164510773598598	CMakeFiles/istringstream.dir/main.cpp.obj	fd100ca76e164bb
+322	450	7164510774826707	istringstream.exe	abf676666a50bf18
+2	349	7164511515499607	CMakeFiles/istringstream.dir/main.cpp.obj	fd100ca76e164bb
+350	502	7164511516955280	istringstream.exe	abf676666a50bf18
+2	310	7164511821153608	CMakeFiles/istringstream.dir/main.cpp.obj	fd100ca76e164bb
+311	448	7164511822461612	istringstream.exe	abf676666a50bf18
+3	315	7164511920071057	CMakeFiles/istringstream.dir/main.cpp.obj	fd100ca76e164bb
+320	453	7164511921378397	istringstream.exe	abf676666a50bf18
+2	379	7164514043145430	CMakeFiles/istringstream.dir/main.cpp.obj	fd100ca76e164bb
+380	519	7164514044478978	istringstream.exe	abf676666a50bf18
+2	326	7164514326128697	CMakeFiles/istringstream.dir/main.cpp.obj	fd100ca76e164bb
+326	454	7164514327332810	istringstream.exe	abf676666a50bf18

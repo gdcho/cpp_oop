@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/forum_user_factory.dir/main.cpp.o CMakeFiles/forum_user_factory.dir/user.cpp.o CMakeFiles/forum_user_factory.dir/factory.cpp.o  -o forum_user_factory.exe -Wl,--out-implib,libforum_user_factory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

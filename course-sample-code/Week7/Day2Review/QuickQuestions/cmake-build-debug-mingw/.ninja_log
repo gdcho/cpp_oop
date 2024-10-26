@@ -1,0 +1,8 @@
+# ninja log v5
+3	328	6872275384923061	CMakeFiles/QuickQuestions.dir/main.cpp.obj	db1edebab08220fd
+0	331	6872275384933065	CMakeFiles/QuickQuestions.dir/MyClass.cpp.obj	f49fb9007ea90aa0
+331	455	6872275386132192	QuickQuestions.exe	54587f1fefc6ae7c
+3	272	6872275535339161	CMakeFiles/QuickQuestions.dir/main.cpp.obj	db1edebab08220fd
+272	396	6872275536518417	QuickQuestions.exe	54587f1fefc6ae7c
+2	262	6872275613799792	CMakeFiles/QuickQuestions.dir/main.cpp.obj	db1edebab08220fd
+262	377	6872275614886439	QuickQuestions.exe	54587f1fefc6ae7c

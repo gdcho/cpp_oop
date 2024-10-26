@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/multiset.dir/multiset.cpp.o  -o multiset.exe -Wl,--out-implib,libmultiset.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

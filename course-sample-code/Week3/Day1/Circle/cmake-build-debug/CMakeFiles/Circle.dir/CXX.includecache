@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/Circle/Circle.cpp
+Circle.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/Circle/Circle.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/Circle/Circle.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/Circle/main.cpp
+iostream
+-
+Circle.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/Circle/Circle.hpp
+

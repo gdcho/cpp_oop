@@ -1,0 +1,9 @@
+# ninja log v5
+3	410	6916639063162484	CMakeFiles/DynamicClasses.dir/main.cpp.obj	c025166733ba2299
+410	548	6916639064484899	DynamicClasses.exe	e8c28639555c92a
+2	388	6916640413129448	CMakeFiles/DynamicClasses.dir/main.cpp.obj	c025166733ba2299
+388	512	6916640414311131	DynamicClasses.exe	e8c28639555c92a
+3	410	6916640586034174	CMakeFiles/DynamicClasses.dir/main.cpp.obj	c025166733ba2299
+411	537	6916640587240190	DynamicClasses.exe	e8c28639555c92a
+2	361	6916640710663402	CMakeFiles/DynamicClasses.dir/main.cpp.obj	c025166733ba2299
+361	507	6916640712047366	DynamicClasses.exe	e8c28639555c92a

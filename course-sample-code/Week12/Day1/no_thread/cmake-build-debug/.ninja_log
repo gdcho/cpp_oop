@@ -1,0 +1,6 @@
+# ninja log v5
+1171	1379	7144420028847173	no_thread_code.exe	af3d61f31f360be0
+1	1096	7144437892356452	CMakeFiles/no_thread.dir/main.cpp.obj	42bf3be2cb8c812e
+1107	1351	7144437894761345	no_thread.exe	92a53227f6ba669
+3	1376	7144484856818423	CMakeFiles/no_thread.dir/main.cpp.obj	42bf3be2cb8c812e
+1377	1698	7144484859795374	no_thread.exe	92a53227f6ba669

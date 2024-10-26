@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/bad_pizza.dir/main.cpp.o  -o bad_pizza.exe -Wl,--out-implib,libbad_pizza.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/ObserverNewspaper/Observer.hpp
+iostream
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/ObserverNewspaper/Subject.hpp
+Observer.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/ObserverNewspaper/Observer.hpp
+iostream
+-
+vector
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/ObserverNewspaper/main.cpp
+iostream
+-
+Observer.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/ObserverNewspaper/Observer.hpp
+Subject.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/ObserverNewspaper/Subject.hpp
+

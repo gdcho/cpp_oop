@@ -1,0 +1,3 @@
+C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week13/Week13Day2Code/bad_pizza/cmake-build-debug-mingw/CMakeFiles/bad_pizza.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week13/Week13Day2Code/bad_pizza/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week13/Week13Day2Code/bad_pizza/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

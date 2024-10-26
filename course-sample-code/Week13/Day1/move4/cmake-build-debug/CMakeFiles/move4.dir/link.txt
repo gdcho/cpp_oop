@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/move4.dir/move4.cpp.o  -o move4.exe -Wl,--out-implib,libmove4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

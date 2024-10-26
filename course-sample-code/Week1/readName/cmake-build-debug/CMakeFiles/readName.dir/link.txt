@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/readName.dir/main.cpp.o  -o readName.exe -Wl,--out-implib,libreadName.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
