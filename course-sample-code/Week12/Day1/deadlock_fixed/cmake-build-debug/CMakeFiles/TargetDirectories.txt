@@ -1,3 +1,0 @@
-C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week13/Day1/deadlock_fixed/cmake-build-debug/CMakeFiles/deadlock_fixed.dir
-C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week13/Day1/deadlock_fixed/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week13/Day1/deadlock_fixed/cmake-build-debug/CMakeFiles/rebuild_cache.dir

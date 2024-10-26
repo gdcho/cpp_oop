@@ -1,3 +1,0 @@
-/cygdrive/c/Users/a00257049/CLionProjects/COMP3512Winter/Week1/bits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/a00257049/CLionProjects/COMP3512Winter/Week1/bits/cmake-build-debug/CMakeFiles/bits.dir
-/cygdrive/c/Users/a00257049/CLionProjects/COMP3512Winter/Week1/bits/cmake-build-debug/CMakeFiles/edit_cache.dir

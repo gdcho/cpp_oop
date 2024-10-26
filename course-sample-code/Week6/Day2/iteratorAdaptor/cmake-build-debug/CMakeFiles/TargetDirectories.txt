@@ -1,3 +1,0 @@
-/Users/davidcho/CLionProjects/course-sample-code-gdcho-14/Week6/Day2/iteratorAdaptor/cmake-build-debug/CMakeFiles/iteratorAdaptor.dir
-/Users/davidcho/CLionProjects/course-sample-code-gdcho-14/Week6/Day2/iteratorAdaptor/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/davidcho/CLionProjects/course-sample-code-gdcho-14/Week6/Day2/iteratorAdaptor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

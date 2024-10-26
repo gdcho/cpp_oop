@@ -1,3 +1,0 @@
-C:/Users/jyim3/CLionProjects/CPPSampleCode/Week2/Day2/dynamic_memory/cmake-build-debug/CMakeFiles/dynamic_memory.dir
-C:/Users/jyim3/CLionProjects/CPPSampleCode/Week2/Day2/dynamic_memory/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jyim3/CLionProjects/CPPSampleCode/Week2/Day2/dynamic_memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir

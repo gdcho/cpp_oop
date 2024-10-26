@@ -1,9 +1,0 @@
-# ninja log v5
-1	1280	7228322614655744	CMakeFiles/thread_race_condition.dir/main.cpp.obj	bdfa190b7bef82a5
-1288	1528	7228322617064953	thread_race_condition.exe	2fcdf0d74a537489
-7	1429	7228323081981345	CMakeFiles/thread_race_condition.dir/main.cpp.obj	bdfa190b7bef82a5
-1430	1663	7228323084222923	thread_race_condition.exe	2fcdf0d74a537489
-4	1420	7228323247810164	CMakeFiles/thread_race_condition.dir/main.cpp.obj	bdfa190b7bef82a5
-1420	1634	7228323249826751	thread_race_condition.exe	2fcdf0d74a537489
-3	1020	7228323725989807	CMakeFiles/thread_race_condition.dir/main.cpp.obj	bdfa190b7bef82a5
-1020	1244	7228323728103295	thread_race_condition.exe	2fcdf0d74a537489

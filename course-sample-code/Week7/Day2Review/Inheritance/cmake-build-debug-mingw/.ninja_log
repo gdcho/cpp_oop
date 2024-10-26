@@ -1,7 +1,0 @@
-# ninja log v5
-4	529	7193619014347834	CMakeFiles/Pointer.dir/main.cpp.obj	77bdf6c0a9cdddae
-530	723	7193619016184828	Pointer.exe	29b7eab44a5e78f4
-2	449	7194704532957771	CMakeFiles/Inheritance.dir/main.cpp.obj	72a0229c9b184426
-450	636	7194704534774184	Inheritance.exe	9b28db91db34f974
-2	394	7194714928524958	CMakeFiles/Inheritance.dir/main.cpp.obj	72a0229c9b184426
-394	535	7194714929882589	Inheritance.exe	9b28db91db34f974

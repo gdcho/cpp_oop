@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "Unix Makefiles" -S /Users/davidcho/CLionProjects/lab-3---oop-and-testing-gdcho -B /Users/davidcho/CLionProjects/lab-3---oop-and-testing-gdcho/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/davidcho/CLionProjects/lab-3---oop-and-testing-gdcho/cmake-build-debug

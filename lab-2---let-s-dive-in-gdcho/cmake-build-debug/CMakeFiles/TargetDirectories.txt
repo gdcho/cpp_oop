@@ -1,0 +1,3 @@
+/Users/davidcho/CLionProjects/lab-2---let-s-dive-in-gdcho/cmake-build-debug/CMakeFiles/lab2template.dir
+/Users/davidcho/CLionProjects/lab-2---let-s-dive-in-gdcho/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidcho/CLionProjects/lab-2---let-s-dive-in-gdcho/cmake-build-debug/CMakeFiles/rebuild_cache.dir

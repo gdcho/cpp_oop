@@ -1,3 +1,0 @@
-C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week12/Day2/ascending/cmake-build-debug-mingw/CMakeFiles/ascending.dir
-C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week12/Day2/ascending/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
-C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week12/Day2/ascending/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

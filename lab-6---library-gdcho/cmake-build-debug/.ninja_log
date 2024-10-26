@@ -1,0 +1,21 @@
+# ninja log v6
+1	559	1729024822134498891	CMakeFiles/lab4template.dir/book.cpp.o	6fe7731a66a0cad8
+10	444	1729025240181496700	CMakeFiles/lab4template.dir/main.cpp.o	c8d7a2922a5c875
+1	595	1729024822134625348	CMakeFiles/lab4template.dir/library.cpp.o	609b8a819046defb
+444	481	1729025240615556119	lab4template	c095da5ee236a361
+4	576	1729032687189648257	CMakeFiles/lab4template.dir/dvd.cpp.o	1d59dc5b8dbf5e9b
+3	592	1729032687189159964	CMakeFiles/lab4template.dir/book.cpp.o	6fe7731a66a0cad8
+3	606	1729032687189274548	CMakeFiles/lab4template.dir/library.cpp.o	609b8a819046defb
+3	622	1729032687189377340	CMakeFiles/lab4template.dir/catalogue.cpp.o	3b6bfafe0d077836
+3	626	1729032687189474757	CMakeFiles/lab4template.dir/library_item_generator.cpp.o	10d27f58b9571466
+3	632	1729032687188858754	CMakeFiles/lab4template.dir/main.cpp.o	c8d7a2922a5c875
+577	886	1729032687762846777	CMakeFiles/lab4template.dir/journal.cpp.o	eaf9aa7850be8c84
+886	1034	1729032688072038738	lab4template	395b530aedea37d1
+3	492	1729033757582956684	CMakeFiles/lab4template.dir/book.cpp.o	6fe7731a66a0cad8
+5	526	1729033757584346189	CMakeFiles/lab4template.dir/dvd.cpp.o	1d59dc5b8dbf5e9b
+3	540	1729033757582441932	CMakeFiles/lab4template.dir/main.cpp.o	c8d7a2922a5c875
+4	554	1729033757583222351	CMakeFiles/lab4template.dir/library.cpp.o	609b8a819046defb
+4	557	1729033757583539853	CMakeFiles/lab4template.dir/catalogue.cpp.o	3b6bfafe0d077836
+4	567	1729033757584064271	CMakeFiles/lab4template.dir/library_item_generator.cpp.o	10d27f58b9571466
+492	809	1729033758071623335	CMakeFiles/lab4template.dir/journal.cpp.o	eaf9aa7850be8c84
+809	843	1729033758388171237	lab4template	395b530aedea37d1
