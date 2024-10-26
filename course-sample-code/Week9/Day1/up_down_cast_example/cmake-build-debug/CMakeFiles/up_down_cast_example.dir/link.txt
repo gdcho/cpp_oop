@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/up_down_cast_example.dir/up_down_cast_example.cpp.o  -o up_down_cast_example.exe -Wl,--out-implib,libup_down_cast_example.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

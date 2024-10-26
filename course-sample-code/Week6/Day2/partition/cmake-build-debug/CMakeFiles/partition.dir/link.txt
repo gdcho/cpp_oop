@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/partition.dir/partition.cpp.o  -o partition.exe -Wl,--out-implib,libpartition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week4/Weel4Day1Code/operators/Character.cpp
+Character.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week4/Weel4Day1Code/operators/Character.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week4/Weel4Day1Code/operators/Character.hpp
+iostream
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week4/Weel4Day1Code/operators/main.cpp
+iostream
+-
+Character.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week4/Weel4Day1Code/operators/Character.hpp
+

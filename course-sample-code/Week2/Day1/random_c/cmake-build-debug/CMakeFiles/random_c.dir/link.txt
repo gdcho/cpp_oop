@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/random_c.dir/random_c.cpp.o  -o random_c.exe -Wl,--out-implib,librandom_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,3 @@
+/Users/davidcho/CLionProjects/course-sample-code-gdcho-14/Week4/Day2/inherit_constructor/cmake-build-debug/CMakeFiles/inherit_constructor.dir
+/Users/davidcho/CLionProjects/course-sample-code-gdcho-14/Week4/Day2/inherit_constructor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidcho/CLionProjects/course-sample-code-gdcho-14/Week4/Day2/inherit_constructor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

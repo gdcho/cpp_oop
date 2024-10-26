@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/copyFor.dir/main.cpp.o  -o copyFor.exe -Wl,--out-implib,libcopyFor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,3 @@
+C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week6/Week6Day2Code/QuickQuestions/cmake-build-debug-mingw/CMakeFiles/QuickQuestions.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week6/Week6Day2Code/QuickQuestions/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week6/Week6Day2Code/QuickQuestions/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

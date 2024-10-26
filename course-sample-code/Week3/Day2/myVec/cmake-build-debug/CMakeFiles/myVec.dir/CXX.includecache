@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/myVec/MyVec.cpp
+MyVec.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/myVec/MyVec.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/myVec/MyVec.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/myVec/main.cpp
+iostream
+-
+MyVec.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3512Winter/Week3/myVec/MyVec.hpp
+

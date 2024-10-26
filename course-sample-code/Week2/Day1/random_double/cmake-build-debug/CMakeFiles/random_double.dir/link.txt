@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/random_double.dir/random_double.cpp.o  -o random_double.exe -Wl,--out-implib,librandom_double.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

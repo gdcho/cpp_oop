@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/Decorator.dir/main.cpp.o  -o Decorator.exe -Wl,--out-implib,libDecorator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

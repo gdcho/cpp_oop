@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week8/Day1/priorityqueue/main.cpp
+iostream
+-
+queue
+-
+

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/deque.dir/deque.cpp.o  -o deque.exe -Wl,--out-implib,libdeque.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

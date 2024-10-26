@@ -1,0 +1,3 @@
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/Slicing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/Slicing/cmake-build-debug/CMakeFiles/PracticalDesignPatterns.dir
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week13/Week13Day2Code/Slicing/cmake-build-debug/CMakeFiles/edit_cache.dir

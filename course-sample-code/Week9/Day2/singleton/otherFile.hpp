@@ -1,0 +1,8 @@
+//
+// Created by A00257049 on 2019-03-27.
+//
+
+#ifndef SINGLETON_OTHERFILE_HPP
+#define SINGLETON_OTHERFILE_HPP
+void function();
+#endif //SINGLETON_OTHERFILE_HPP

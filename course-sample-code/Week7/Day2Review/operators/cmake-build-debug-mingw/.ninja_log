@@ -1,0 +1,22 @@
+# ninja log v5
+7	361	6874186533200767	CMakeFiles/operators.dir/Character.cpp.obj	969f086ce4e02411
+3	278	6874187296215487	CMakeFiles/operators.dir/main.cpp.obj	e9eed41863df99df
+278	388	6874187297246725	operators.exe	8ca9874fae2ec9ff
+12	605	7193489034722566	CMakeFiles/operators.dir/Character.cpp.obj	e213bc686e949f0e
+2	608	7193489034732590	CMakeFiles/operators.dir/main.cpp.obj	a908b6454ebbf12d
+608	872	7193489037286403	operators.exe	43d3b7397059e9d4
+3	500	7193491524690000	CMakeFiles/operators.dir/main.cpp.obj	a908b6454ebbf12d
+501	768	7193491527293776	operators.exe	43d3b7397059e9d4
+3	488	7193493296664571	CMakeFiles/operators.dir/main.cpp.obj	a908b6454ebbf12d
+493	737	7193493299047568	operators.exe	43d3b7397059e9d4
+3	497	7193494166968880	CMakeFiles/operators.dir/main.cpp.obj	a908b6454ebbf12d
+498	774	7193494169627119	operators.exe	43d3b7397059e9d4
+8	452	7193494541677636	CMakeFiles/operators.dir/Character.cpp.obj	e213bc686e949f0e
+14	543	7193495425175948	CMakeFiles/operators.dir/Character.cpp.obj	e213bc686e949f0e
+4	557	7193495425322619	CMakeFiles/operators.dir/main.cpp.obj	a908b6454ebbf12d
+557	760	7193495427291170	operators.exe	43d3b7397059e9d4
+4	568	7193496033649319	CMakeFiles/operators.dir/Character.cpp.obj	e213bc686e949f0e
+23	574	7193496033721163	CMakeFiles/operators.dir/main.cpp.obj	a908b6454ebbf12d
+574	811	7193496036031591	operators.exe	43d3b7397059e9d4
+3	498	7193496315610156	CMakeFiles/operators.dir/main.cpp.obj	a908b6454ebbf12d
+498	715	7193496317713474	operators.exe	43d3b7397059e9d4

@@ -1,0 +1,1 @@
+/usr/bin/g++.exe -g -Wl,--enable-auto-import CMakeFiles/Pointer.dir/main.cpp.o -o Pointer.exe -Wl,--out-implib,libPointer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

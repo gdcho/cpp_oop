@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DynamicClasses",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DynamicClasses::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DynamicClasses-Debug-ce48b028120750fd233c.json",
+					"name" : "DynamicClasses",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week13/Week13Day2Code/DynamicClasses/cmake-build-debug-mingw",
+		"source" : "C:/Users/jyim3/CLionProjects/COMP3522Fall2021/Week13/Week13Day2Code/DynamicClasses"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/lvaluervalue4.dir/lvaluervalue4.cpp.o  -o lvaluervalue4.exe -Wl,--out-implib,liblvaluervalue4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

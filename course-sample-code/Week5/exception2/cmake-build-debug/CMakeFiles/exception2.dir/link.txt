@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/exception2.dir/exception2.cpp.o  -o exception2.exe -Wl,--out-implib,libexception2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

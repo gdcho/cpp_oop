@@ -1,0 +1,6 @@
+# ninja log v5
+1203	1431	7144422214386477	thread_class_code.exe	8149c535528df71d
+4	1176	7144455697744199	CMakeFiles/thread_class.dir/main.cpp.obj	3d026d7d47bd7817
+1176	1409	7144455700006540	thread_class.exe	e06353f0acb8d50f
+24	1605	7144484402878707	CMakeFiles/thread_class.dir/main.cpp.obj	3d026d7d47bd7817
+1606	1907	7144484405756265	thread_class.exe	e06353f0acb8d50f

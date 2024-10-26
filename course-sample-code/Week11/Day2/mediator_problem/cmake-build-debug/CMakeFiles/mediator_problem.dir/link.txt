@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/mediator_problem.dir/main.cpp.o  -o mediator_problem.exe -Wl,--out-implib,libmediator_problem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

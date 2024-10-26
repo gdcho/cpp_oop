@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/forum_user_factory/factory.hpp
+user.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/forum_user_factory/user.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/forum_user_factory/main.cpp
+iostream
+-
+vector
+-
+user.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/forum_user_factory/user.hpp
+factory.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/forum_user_factory/factory.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day2Code/forum_user_factory/user.hpp
+iostream
+-
+chrono
+-
+vector
+-
+

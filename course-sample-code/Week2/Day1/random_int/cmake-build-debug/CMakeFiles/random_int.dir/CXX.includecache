@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/a00257049/CLionProjects/COMP3512Winter/Week2/random_int/random_int.cpp
+random
+-
+ctime
+-
+iostream
+-
+

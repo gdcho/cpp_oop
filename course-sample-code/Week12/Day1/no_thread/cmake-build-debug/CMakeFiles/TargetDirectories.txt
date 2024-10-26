@@ -1,0 +1,3 @@
+C:/Users/jyim3/CLionProjects/CPPSampleCode/Week12/Day1/no_thread/cmake-build-debug/CMakeFiles/no_thread.dir
+C:/Users/jyim3/CLionProjects/CPPSampleCode/Week12/Day1/no_thread/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jyim3/CLionProjects/CPPSampleCode/Week12/Day1/no_thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/myVec.dir/main.cpp.o CMakeFiles/myVec.dir/MyVec.cpp.o  -o myVec.exe -Wl,--out-implib,libmyVec.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

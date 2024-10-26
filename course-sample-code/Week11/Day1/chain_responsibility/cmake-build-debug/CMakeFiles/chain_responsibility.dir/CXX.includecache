@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day1Code/chain_responsibility/EnrolmentApplicationForm.hpp
+iostream
+-
+StudentAccount.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day1Code/chain_responsibility/StudentAccount.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day1Code/chain_responsibility/StudentAccount.hpp
+iostream
+-
+vector
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day1Code/chain_responsibility/handlers.hpp
+iostream
+-
+EnrolmentApplicationForm.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day1Code/chain_responsibility/EnrolmentApplicationForm.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day1Code/chain_responsibility/main.cpp
+iostream
+-
+handlers.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week11/Week11Day1Code/chain_responsibility/handlers.hpp
+vector
+-
+

@@ -1,0 +1,6 @@
+# ninja log v5
+12	410	7218977328242300	CMakeFiles/game_state_pattern.dir/main.cpp.obj	ad6134d28cd2b58e
+1	780	7217860961010300	CMakeFiles/game_state_pattern.dir/stateAndContext.cpp.obj	cb2448e106f2f0b6
+410	592	7218977329988489	game_state_pattern.exe	8bd613783c815172
+3	398	7218977328114460	CMakeFiles/game_state_pattern.dir/context.cpp.obj	53c7a2114070b107
+8	401	7218977328134446	CMakeFiles/game_state_pattern.dir/state.cpp.obj	aae6498d36d3a8d9
