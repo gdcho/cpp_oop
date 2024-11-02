@@ -1,0 +1,15 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "Unix Makefiles" -S /Users/davidcho/CLionProjects/lab-7---course-conflict-gdcho -B /Users/davidcho/CLionProjects/lab-7---course-conflict-gdcho/cmake-build-debug
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.29/Modules/Platform/Darwin-Initialize.cmake:308 (message):
+  Ignoring CMAKE_OSX_SYSROOT value:
+
+   /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
+
+  because the directory does not exist.
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake:34 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/davidcho/CLionProjects/lab-7---course-conflict-gdcho/cmake-build-debug

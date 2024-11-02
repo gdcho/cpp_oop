@@ -1,0 +1,1 @@
+/usr/bin/g++  -Wall -Wextra -pedantic -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab7template.dir/main.cpp.o CMakeFiles/lab7template.dir/Course.cpp.o -o lab7template
