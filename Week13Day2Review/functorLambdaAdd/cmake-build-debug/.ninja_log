@@ -1,0 +1,8 @@
+# ninja log v6
+731	907	7541958627073230	functorLambdaAdd.exe	226b49064a60333d
+1	439	1732838969627693650	CMakeFiles/functorLambdaAdd.dir/main.cpp.o	fbfe865f0c9a835b
+442	540	1732838970067879461	functorLambdaAdd	9161f9f69cea1175
+4	320	1732839131821990282	CMakeFiles/functorLambdaAdd.dir/main.cpp.o	fbfe865f0c9a835b
+321	364	1732839132138430516	functorLambdaAdd	9161f9f69cea1175
+3	258	1732839154486350176	CMakeFiles/functorLambdaAdd.dir/main.cpp.o	fbfe865f0c9a835b
+258	297	1732839154741487637	functorLambdaAdd	9161f9f69cea1175

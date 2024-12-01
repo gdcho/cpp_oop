@@ -1,0 +1,5 @@
+# ninja log v5
+0	688	7235120184669784	CMakeFiles/trafficMediator.dir/main.cpp.obj	1f237d1294e7ff5d
+16	692	7235120184680013	CMakeFiles/trafficMediator.dir/mediator.cpp.obj	1d182eb1664b9039
+9	707	7235120184878544	CMakeFiles/trafficMediator.dir/components.cpp.obj	4530eae1d9ef830d
+707	969	7235120187343625	trafficMediator.exe	c4572ef2fadc967b

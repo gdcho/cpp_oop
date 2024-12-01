@@ -1,0 +1,5 @@
+# ninja log v5
+9	378	6916582734094009	CMakeFiles/ObserverNewspaper.dir/Observer.cpp.obj	7526a41231ae067
+6	386	6916584037226200	CMakeFiles/ObserverNewspaper.dir/main.cpp.obj	782939be2000b7c
+2	419	6916584037534786	CMakeFiles/ObserverNewspaper.dir/Subject.cpp.obj	23aa7547325fd91e
+419	550	6916584038794073	ObserverNewspaper.exe	2f6e3a03529d1ada

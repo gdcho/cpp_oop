@@ -1,0 +1,3 @@
+/Users/davidcho/Documents/CST Term 3/Week13Day2Review/cross_casting/cmake-build-debug/CMakeFiles/cross_casting.dir
+/Users/davidcho/Documents/CST Term 3/Week13Day2Review/cross_casting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidcho/Documents/CST Term 3/Week13Day2Review/cross_casting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

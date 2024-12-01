@@ -1,0 +1,3 @@
+C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week14Review/Day1/dogState/cmake-build-debug-mingw/CMakeFiles/dogState.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week14Review/Day1/dogState/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2023/CPPSampleCode/Week14Review/Day1/dogState/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
