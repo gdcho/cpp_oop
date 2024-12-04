@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(video_package_facade_example)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(video_package_facade_example main.cpp video_manipulation_package.cpp video_manipulation_package.hpp)

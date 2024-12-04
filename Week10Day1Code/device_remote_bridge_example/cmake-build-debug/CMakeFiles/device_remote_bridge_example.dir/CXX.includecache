@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/device_remote_bridge_example/device_implementation.hpp
+iostream
+-
+sstream
+-
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/device_remote_bridge_example/main.cpp
+iostream
+-
+device_implementation.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/device_remote_bridge_example/device_implementation.hpp
+remote_abstraction.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/device_remote_bridge_example/remote_abstraction.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/device_remote_bridge_example/remote_abstraction.hpp
+device_implementation.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/device_remote_bridge_example/device_implementation.hpp
+

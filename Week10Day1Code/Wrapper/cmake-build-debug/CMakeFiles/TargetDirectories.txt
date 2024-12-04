@@ -1,0 +1,3 @@
+C:/Users/jyim3/CLionProjects/COMP3522Fall2024/CPPSampleCode/Week10/Day1/Wrapper/cmake-build-debug/CMakeFiles/Wrapper.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2024/CPPSampleCode/Week10/Day1/Wrapper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jyim3/CLionProjects/COMP3522Fall2024/CPPSampleCode/Week10/Day1/Wrapper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

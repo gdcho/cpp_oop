@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/video_package_facade_example/main.cpp
+iostream
+-
+video_manipulation_package.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/video_package_facade_example/video_manipulation_package.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/video_package_facade_example/video_manipulation_package.cpp
+video_manipulation_package.hpp
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/video_package_facade_example/video_manipulation_package.hpp
+
+/cygdrive/c/Users/A00257049/CLionProjects/COMP3522Fall2020/Week10/Week10Day1/video_package_facade_example/video_manipulation_package.hpp
+iostream
+-
+
