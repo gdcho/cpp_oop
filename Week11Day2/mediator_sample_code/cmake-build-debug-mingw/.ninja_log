@@ -1,0 +1,5 @@
+# ninja log v5
+4	430	7219001976859296	CMakeFiles/mediator_sample_code.dir/main.cpp.obj	cedd1bd5f41c9d72
+1	438	7219001976939218	CMakeFiles/mediator_sample_code.dir/components.cpp.obj	1cf0edfad217919b
+8	554	7219001978096034	CMakeFiles/mediator_sample_code.dir/mediator.cpp.obj	3e668537da925662
+555	721	7219001979702532	mediator_sample_code.exe	8ae035175ede18f2

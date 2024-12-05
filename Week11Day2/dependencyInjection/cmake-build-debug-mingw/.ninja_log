@@ -1,0 +1,15 @@
+# ninja log v5
+3	428	7217024728759473	CMakeFiles/dependencyInjection.dir/main.cpp.obj	9587433bbca5b66e
+429	577	7217024730168201	dependencyInjection.exe	c2f1cce5113b52e0
+2	329	7219036133399151	CMakeFiles/dependencyInjection.dir/main.cpp.obj	9587433bbca5b66e
+330	471	7219036134755308	dependencyInjection.exe	c2f1cce5113b52e0
+3	312	7219037343988924	CMakeFiles/dependencyInjection.dir/main.cpp.obj	9587433bbca5b66e
+312	449	7219037345282516	dependencyInjection.exe	c2f1cce5113b52e0
+3	313	7219037463835899	CMakeFiles/dependencyInjection.dir/main.cpp.obj	9587433bbca5b66e
+314	449	7219037465134674	dependencyInjection.exe	c2f1cce5113b52e0
+3	356	7219037693357281	CMakeFiles/dependencyInjection.dir/main.cpp.obj	9587433bbca5b66e
+356	498	7219037694739838	dependencyInjection.exe	c2f1cce5113b52e0
+3	335	7219038623625919	CMakeFiles/dependencyInjection.dir/main.cpp.obj	9587433bbca5b66e
+335	466	7219038624870646	dependencyInjection.exe	c2f1cce5113b52e0
+2	303	7219038680121072	CMakeFiles/dependencyInjection.dir/main.cpp.obj	9587433bbca5b66e
+303	430	7219038681339378	dependencyInjection.exe	c2f1cce5113b52e0
