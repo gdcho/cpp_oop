@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/entry.dir/entry.cpp.o CMakeFiles/entry.dir/entrytest.cpp.o  -o entry.exe -Wl,--out-implib,libentry.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

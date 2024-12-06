@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "functor_fun",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "functor_fun::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-functor_fun-Debug-a525886a2337fb0ff5b8.json",
+					"name" : "functor_fun",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/jyim3/CLionProjects/COMP3522Fall2024/CPPSampleCode/Week12/Day1/functor_fun/cmake-build-debug",
+		"source" : "C:/Users/jyim3/CLionProjects/COMP3522Fall2024/CPPSampleCode/Week12/Day1/functor_fun"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

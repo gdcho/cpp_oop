@@ -1,0 +1,17 @@
+# ninja log v5
+1	1524	7228340208019781	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+1536	1749	7228340210252109	deadlock_fixed.exe	fcfecbc4167bde3c
+3	1150	7228341785023480	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+1151	1402	7228341787417509	deadlock_fixed.exe	fcfecbc4167bde3c
+3	1012	7228342155621627	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+1013	1246	7228342157872055	deadlock_fixed.exe	fcfecbc4167bde3c
+3	1010	7228342631483910	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+1011	1224	7228342633527884	deadlock_fixed.exe	fcfecbc4167bde3c
+6	1222	7228345683334787	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+1224	1430	7228345685323191	deadlock_fixed.exe	fcfecbc4167bde3c
+3	910	7228345891440323	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+910	1104	7228345893293030	deadlock_fixed.exe	fcfecbc4167bde3c
+3	1072	7228346687264113	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+1073	1271	7228346689168906	deadlock_fixed.exe	fcfecbc4167bde3c
+3	951	7228347289718929	CMakeFiles/deadlock_fixed.dir/main.cpp.obj	68d753c8e240772
+952	1138	7228347291509058	deadlock_fixed.exe	fcfecbc4167bde3c

@@ -1,0 +1,1 @@
+C:/cygwin64/bin/g++.exe -g  -Wl,--enable-auto-import CMakeFiles/templatefun.dir/templatefun.cpp.o  -o templatefun.exe -Wl,--out-implib,libtemplatefun.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
